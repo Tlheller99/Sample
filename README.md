@@ -1,2 +1,3 @@
 # Sample
-Just a sample
+Just a sample to learn with
+
